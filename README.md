@@ -3,7 +3,7 @@ Charlytics
 
 A Perch Widget to display google analytics within perch
 
-Since oocharts is no longer working I needed a new way to bring an overview of analytics into perch, so this was cobbled together from a few different peoples work, mainly Paul Gregg  and his Spicy Analytics app/widget https://github.com/spicy-it/spicy_analytics and Cliver Walkers analytics widget https://github.com/clivewalker/cvw_googleanalytics
+Since oocharts is no longer working I needed a new way to bring an overview of analytics into perch, so this was cobbled together from a few different peoples work, so thanks to Paul Gregg and his Spicy Analytics app/widget https://github.com/spicy-it/spicy_analytics and Cliver Walkers analytics widget https://github.com/clivewalker/cvw_googleanalytics (unfortunately these arent working anymore due to oocharts going down).
 
 Instructions:
 
